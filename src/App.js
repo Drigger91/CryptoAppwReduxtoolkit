@@ -1,5 +1,5 @@
 import "./App.css";
-import { Route, Navlink, Link, Routes } from "react-router-dom";
+import { Route, Navlink, Link, Routes,Navigate } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import Navbar from "./components/Navbar";
 import HomePage from "./components/HomePage";
@@ -31,7 +31,7 @@ function App() {
                 element={<CryptoDetails />}
               ></Route>
               <Route exact path="/news" element={<News/>}></Route>
-              <Redirect to="/" />
+              <Route path ='/CryptoAppwReduxtoolkit/' element={<Navigate replace to='/'/>}/>
             </Routes>
           </div>
         </Layout>
