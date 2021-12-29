@@ -31,6 +31,7 @@ function App() {
                 element={<CryptoDetails />}
               ></Route>
               <Route exact path="/news" element={<News/>}></Route>
+              <Redirect to="/" />
             </Routes>
           </div>
         </Layout>
