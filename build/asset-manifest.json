@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoAppwReduxtoolkit/static/css/main.a3ae13b0.css",
+    "main.js": "/CryptoAppwReduxtoolkit/static/js/main.e2df250e.js",
+    "static/js/787.ae4b3695.chunk.js": "/CryptoAppwReduxtoolkit/static/js/787.ae4b3695.chunk.js",
+    "static/media/cryptocurrency.png": "/CryptoAppwReduxtoolkit/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/CryptoAppwReduxtoolkit/index.html",
+    "main.a3ae13b0.css.map": "/CryptoAppwReduxtoolkit/static/css/main.a3ae13b0.css.map",
+    "main.e2df250e.js.map": "/CryptoAppwReduxtoolkit/static/js/main.e2df250e.js.map",
+    "787.ae4b3695.chunk.js.map": "/CryptoAppwReduxtoolkit/static/js/787.ae4b3695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ae13b0.css",
+    "static/js/main.e2df250e.js"
+  ]
+}
