@@ -2,7 +2,7 @@
   "name": "cryptoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Drigger91.github.io",
+  "homepage": "https://Drigger91.github.io/CryptoAppwReduxtoolkit",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.7.1",
